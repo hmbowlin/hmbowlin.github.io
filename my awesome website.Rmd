@@ -1,3 +1,4 @@
+---
 title: "My awesome website"
 output: 
   html_document:
