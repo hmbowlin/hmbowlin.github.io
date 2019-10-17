@@ -10,11 +10,7 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<![](Wilson.jpg)style="width:75%">
 
-```{r}
 
-```
 
