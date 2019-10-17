@@ -1,7 +1,14 @@
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
 ---
-title: "Hannah Bowlin"
-output: html_document
----
+
+# This is Hannah's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
