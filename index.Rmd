@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-# This is Hannah's awesome website, I don't know how to do this
+# Trying to make a website, here are my dogs
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
@@ -17,6 +17,6 @@ output:
 
 ![](Mayzie.jpeg)
 
-# Mayzie
+# Mayzie and her sloth baby
 
 You can learn about me [here](about.html).
