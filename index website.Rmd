@@ -1,0 +1,17 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Hannah's awesome website, I don't know how to do this
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+![](Wilson.jpg)
+# Wilson in the bath
+
+You can learn about me [here](about.html).

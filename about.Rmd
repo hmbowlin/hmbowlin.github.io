@@ -7,4 +7,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# My name is Hannah 
+# My name is Hannah and I am from Minnesota
