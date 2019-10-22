@@ -14,4 +14,8 @@ output:
 ![](Wilson.jpg)
 # Wilson in the bath
 
+![](Mayzie.jpeg)
+
+# Mayzie
+
 You can learn about me [here](about.html).
