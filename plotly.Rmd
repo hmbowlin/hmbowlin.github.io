@@ -79,3 +79,17 @@ scatter_ggplot =
 ggplotly(scatter_ggplot)
 ```
 
+Box ggplotly
+```{r}
+box_ggplot = 
+  inner_join(nyc_airbnb, common_neighborhoods,
+             by = "neighbourhood") %>% 
+  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
+  ggplot(aes(x = neighbourhood, y = price, fill = neighbourhood)) +
+  geom_boxplot() +
+  theme_classic() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplotly(box_ggplot)
+```
+
